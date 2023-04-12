@@ -3,3 +3,11 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.nav-link-1{
+    border-right: 2px solid black;
+}
+
+.logo_h3{
+    font-size: 26px;
+}
